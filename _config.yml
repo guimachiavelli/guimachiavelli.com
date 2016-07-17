@@ -19,4 +19,4 @@ defaults:
 
 # Build settings
 markdown: kramdown
-exclude: [makefile, target.txt]
+exclude: [makefile, target.txt, readme.md]
