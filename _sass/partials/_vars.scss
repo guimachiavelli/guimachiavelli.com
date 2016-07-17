@@ -1,0 +1,41 @@
+//typography vars
+$base-font-size: 12px;
+$base-line-height: 18px;
+
+$display-font: 'IM Fell Great Primer', Georgia, serif;
+
+//color vars
+$main-color: #000bff;
+$text-color: black;
+
+@function baselines($lines: 1) {
+    @return $base-line-height * $lines;
+}
+
+@function font-size($size: 1) {
+    @return $base-font-size * $size;
+}
+
+@mixin browser-frame() {
+    border: 3px solid $main-color;
+    box-sizing :border-box;
+    line-height: 0;
+    display: block;
+
+    &:before {
+        box-sizing: border-box;
+        content: '⊗ ⊝ ⊕';
+        color: $main-color;
+        font-size: 25px;
+        text-align: left;
+        padding-left: 10px;
+        display: block;
+        width: 100%;
+        height: 31px;
+        background: white;
+        border-bottom: 3px solid $main-color;
+        line-height: 24px;
+        vertical-align: middle;
+    }
+
+}

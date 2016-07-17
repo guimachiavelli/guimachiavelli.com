@@ -1,0 +1,52 @@
+        <script>
+            var helpers = {
+                randomInt: function(min, max) {
+                    max = max - min + 1;
+                    return Math.floor(Math.random() * max + 1);
+                },
+
+                ancestorLink: function(el) {
+                    if (el.nodeName.toLowerCase() === 'body' || el === null) {
+                        return null;
+                    }
+
+                    if (el.nodeName.toLowerCase() === 'a') {
+                        return el;
+                    }
+
+                    return this.ancestorLink(el.parentNode);
+                }
+            };
+
+
+            var guimachiavelli = {
+                init: function() {
+                    document.body.addEventListener('mouseover',
+                                                   this.randomBackgroundPosition)
+                },
+
+                randomBackgroundPosition: function(event) {
+                    var target, randomPosition;
+
+                    target = helpers.ancestorLink(event.target);
+
+                    if (window.innerWidth < 768) {
+                        return;
+                    }
+
+                    if (target === null) {
+                        return;
+                    }
+
+                    randomPosition = '-' + helpers.randomInt(0, 270);
+                    randomPosition += 'px  -' + helpers.randomInt(0, 120) + 'px';
+                    target.style.backgroundPosition = randomPosition;
+                }
+
+            };
+
+            guimachiavelli.init();
+        </script>
+
+    </body>
+</html>

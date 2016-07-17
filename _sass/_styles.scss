@@ -1,0 +1,152 @@
+@import "partials/reset";
+@import "partials/vars";
+
+body, select, input, textarea {
+	color: $text-color;
+	font-family: Monaco, monospace;
+}
+
+a {
+	color: $main-color;
+	text-decoration: none;
+
+	&:hover {
+		background: white url(../assets/site/hover.gif) repeat -100px 0;
+		text-decoration: none;
+	}
+}
+
+p {
+    font-size: font-size(1);
+    width: 35%;
+    margin-bottom: baselines();
+}
+
+em, strong {
+    background: $text-color;
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	margin: 0 auto;
+	width: 94%;
+	-webkit-font-smoothing: none;
+}
+
+.site-header {
+	width: 100%;
+    display: table;
+	margin: baselines(2) 0;
+	position: relative;
+}
+
+.site-title {
+    display: table-cell;
+}
+
+.site-title__link {
+    font-family: $display-font;
+    display: inline;
+    font-size: xx-large;
+    line-height: baselines(2.5);
+}
+
+.site-title__mail {
+    font-size: small;
+}
+
+.menu {
+    text-align: right;
+    display: table-cell;
+}
+
+.menu__link {
+    display: inline-block;
+    font-size: small;
+}
+
+.post {
+	clear: both;
+	margin-bottom: baselines(10);
+
+	header {
+        margin-bottom: baselines(1.5);
+    }
+
+	footer {
+		text-align: right;
+	}
+
+	h1, h2 {
+		font-size: font-size(3);
+		margin: baselines(2) 0 baselines(3) 0;
+
+		a {
+            color: $text-color;
+        }
+	}
+
+	figure {
+		text-align: center;
+		width: 100%;
+
+		img {
+			width: 100%;
+		}
+	}
+
+	blockquote {
+        p {
+            background: $main-color;
+            color: white;
+        }
+
+        a {
+            color: white;
+            text-decoration: underline;
+        }
+	}
+
+    iframe {
+        margin-bottom: baselines();
+    }
+}
+
+.home figure {
+    margin-top: -5px;
+}
+
+.site {
+    @include browser-frame;
+    position: relative;
+}
+
+.single {
+    img {
+        width: 210%;
+    }
+
+    .site-frame {
+        @include browser-frame;
+        width: 210%;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .site-frame--mobile {
+        width: 100%;
+        border-top-width: 35px;
+        max-width: 375px;
+
+        &:before {
+            content: none;
+        }
+    }
+}
+
+@import "partials/mobile";
+@import "partials/print";

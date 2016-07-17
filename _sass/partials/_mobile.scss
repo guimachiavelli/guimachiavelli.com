@@ -1,0 +1,54 @@
+@media (max-width: 768px) {
+	.site-header {
+		font-size: medium;
+		margin-bottom: baselines(5);
+        display: block;
+	}
+
+    .site-title__link {
+        display: block;
+        font-size: font-size(4);
+        margin: baselines() 0;
+        line-height: 1.2;
+    }
+
+    .site-title__mail {
+        font-size: medium;
+    }
+
+	.menu {
+        display: block;
+		width: 90%;
+        position: absolute;
+		top: baselines(-0.5);
+		left: 0;
+        text-align: left;
+	}
+
+    .menu__link {
+        font-size: medium;
+    }
+
+	.single {
+		h1 {
+            font-size: xx-large;
+		}
+
+		p, img, .site-frame {
+			width: 100% !important;
+		}
+
+		p {
+            font-size: medium;
+		}
+
+	}
+
+	.home .site,
+    .single .site-frame {
+		&:before {
+			content: '• • •' !important;
+            line-height: 30px;
+		}
+	}
+}

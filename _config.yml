@@ -1,0 +1,22 @@
+# Site settings
+title: gui machiavelli
+email: hey@guimachiavelli.com
+description: Italian-brazilian programmer
+
+# URLs
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://guimachiavelli.com" # the base hostname & protocol for your site
+permalink: /:slug
+assets: assets
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: post
+
+# Build settings
+markdown: kramdown
+exclude: [makefile, target.txt]
