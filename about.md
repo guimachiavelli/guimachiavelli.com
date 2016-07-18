@@ -13,16 +13,18 @@ graduated in journalism in 2009 in brazil and then in digital media in 2012 at [
 
 speak fluent portuguese, english and italian, plus some spanish, french and swedish.
 
-[github][github]<br>
-[instapaper][instapaper]<br> 
-[pinboard][pinboard]<br> 
-[vimeo][vimeo]
+* [github][github]
+* [fiction][fiction]
+* [instapaper][instapaper] 
+* [pinboard][pinboard] 
+* [vimeo][vimeo]
 
 [github]: https://github.com/guimachiavelli/
 [instapaper]: https://www.instapaper.com/p/guimachiavelli
 [pinboard]: http://pinboard.in/u:macki/
 [image]: http://dump.guimachiavelli.com
 [vimeo]: https://vimeo.com/guimachiavelli
+[fiction]: http://writing.guimachiavelli.com/
 
 [pv]: http://pinar-viola.com
 [mundus]: http://mobedesign.com.br
