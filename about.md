@@ -1,11 +1,14 @@
 ---
 layout: page
 title: about
+menu: true
 ---
 
-italian-brazilian, 30 years old.
+italian-brazilian, born in 1986.
 
-currently working as a freelancer and pursuing a master's degree at the [sandberg institute][sandberg].
+currently working as a freelancer programmer.
+
+graduated at the [sandberg institute][sandberg] in june 2017.
 
 worked with [applied works][aw], [la moulade][lm], [pinar&viola][pv], [mobe][mundus] and [w3haus][w3].
 
@@ -13,12 +16,14 @@ graduated in journalism in 2009 in brazil and then in digital media in 2012 at [
 
 speak fluent portuguese, english and italian, plus some spanish, french and swedish.
 
+* [cv][cv]
 * [github][github]
 * [fiction][fiction]
 * [instapaper][instapaper] 
 * [pinboard][pinboard] 
 * [vimeo][vimeo]
 
+[cv]: {{ site.baseurl }}{% link cv.md %}
 [github]: https://github.com/guimachiavelli/
 [instapaper]: https://www.instapaper.com/p/guimachiavelli
 [pinboard]: http://pinboard.in/u:macki/

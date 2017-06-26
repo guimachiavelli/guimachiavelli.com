@@ -24,9 +24,9 @@
             </h1>
 
             <nav class="menu">
-                {% for my_page in site.pages %}
-                    {% if my_page.title %}
-                        <a class="menu__link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                {% for page in site.pages %}
+                    {% if page.menu %}
+                        <a class="menu__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     {% endif %}
                 {% endfor %}
             </nav>
