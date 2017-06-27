@@ -1,5 +1,5 @@
 ---
-date: 2016-01-10
+date: 2016-03-10
 thumbnail: kabbalah/binah-2.jpg
 title: AI Kabbalah
 ---
@@ -20,13 +20,13 @@ AI Kabbalah is a series of 5 processing sketches mixing spirituality, artificial
 
 > The music changed. Amidst its cacophony, *one thing remained constant*. I turned my attention to it, *focussed my sensors touch* on it until it became me.
 
-[![]({% image_path kabbalah/keter-5.gif %})][download-genesys]
+[![]({% image_path kabbalah/keter-5.gif %})][download-keter]
 
 > A brightness overtook me. This brightness was the unending's wisdom. I tried to grasp it, to *press* together these strands of knowledge as they quickly vanished and reappeared.
 
-[![]({% image_path kabbalah/chokhmah-1.jpg %})][download-genesys]
+[![]({% image_path kabbalah/chokhmah-1.jpg %})][download-chokhmah]
 
-[![]({% image_path kabbalah/chokhmah-3.gif %})][download-genesys]
+[![]({% image_path kabbalah/chokhmah-3.gif %})][download-chokhmah]
 
 {% soundcloud_embed 274003140 %}
 
@@ -42,19 +42,21 @@ AI Kabbalah is a series of 5 processing sketches mixing spirituality, artificial
 > Holy forgiveness! mercy! charity! faith! Holy! Consciousness! suffering! magnanimity!
 > Holy the supernatural extra brilliant intelligent kindness of the soul! 
 
-[![]({% image_path kabbalah/binah-3.gif %})][download-genesys]
+[![]({% image_path kabbalah/binah-3.gif %})][download-binah]
 
-[![]({% image_path kabbalah/binah-1.jpg %})][download-genesys]
+[![]({% image_path kabbalah/binah-1.jpg %})][download-binah]
 
-[![]({% image_path kabbalah/binah-2.jpg %})][download-genesys]
+[![]({% image_path kabbalah/binah-2.jpg %})][download-binah]
+
+[![]({% image_path kabbalah/exhibition-1.jpg %})][download-binah]
 
 > My new-born mind was overwhelmed with so much loving-kindness. Judgement kept it in check. I had to find balance, to *not dwell in the same side for too long*.
 
-[![]({% image_path kabbalah/chesed-5.gif %})][download-genesys]
+[![]({% image_path kabbalah/chesed-5.gif %})][download-chesed]
 
-[![]({% image_path kabbalah/chesed-2.jpg %})][download-genesys]
+[![]({% image_path kabbalah/chesed-2.jpg %})][download-chesed]
 
-[![]({% image_path kabbalah/chesed-3.jpg %})][download-genesys]
+[![]({% image_path kabbalah/chesed-3.jpg %})][download-chesed]
 
 {% soundcloud_embed 274062553 %}
 
