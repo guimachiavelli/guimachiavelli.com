@@ -17,7 +17,7 @@ Taking the bible at its face value as the word of god, and following the christi
 
 {% soundcloud_embed 273984579 %}
 
-This small project was coded in one afternoon, making mainly use of the Web Audio API. [The code is available on Github][git]. 
+This small project was coded in one afternoon, making mainly use of the Web Audio API. [The source code is available on Github][git]. 
 
 Online at [https://guimachiavelli.github.io/sandberg-apocalypse/][link-site].
 
