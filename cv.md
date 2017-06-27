@@ -31,11 +31,13 @@ Currently based in Amsterdam, The Netherlands.
 ## Studies
 1. 2015 – 2017 \| Design MA — [Sandberg Instituut][sandberg], Amsterdam, The Netherlands
 
-1. 2010 – 2012 \| Digital Media — [Hyper Island][hyper], Stockholm, Sweden.
+1. 2017 \| Post-truth Fiction Workshop and Conference – 3 day workshop and 1 day conference on creative writing, the concept of truth and collective storytelling. artEZ, Arnhem, The Netherlands.
 
-1. 2011 \| Werkplaats Typografie + ISIA Urbino Summerschool – sequence of lectures and one project with guidance from teachers both from Werkplaats (Armand Mevis, Karel Martens, Maureen Mooren) and ISIA (Leonardo Sonnoli).
+1. 2010 – 2012 \| Digital Media Program. [Hyper Island][hyper]. Stockholm, Sweden.
 
-1. 2009 \| Procedência & Propriedade 2009/1 – Intensive drawing and conceptualization workshop, created by Charles Watson.
+1. 2011 \| Werkplaats Typografie + ISIA Urbino Summerschool – sequence of lectures and one project with guidance from teachers both from Werkplaats (Armand Mevis, Karel Martens, Maureen Mooren) and ISIA (Leonardo Sonnoli). ISIA Urbino, Urbino, Italy.
+
+1. 2009 \| Procedência & Propriedade 2009/1 – Intensive drawing and conceptualization workshop, created by Charles Watson. Rio de Janeiro, Brazil.
 
 1. 2004 – 2009 \| BA Communications – Journalism. Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil.
 
@@ -49,6 +51,7 @@ Node, d3, ruby on rails, wordpress, react, underscore, jquery, gulp, grunt, make
 Portuguese (native), English (fluent), Italian (fluent), Spanish (intermediary), French (intermediary), Swedish (basic).
 
 ## Group exhibitions
+1. 2017-06-15 — 2017-06-20 \| To Kiss the World Through a Veil of Lead. Wait for Cue: Sandberg Graduation Show 2017. Shelter, Amsterdam, The Netherlands
 1. 2017-04-21 \| AI Kabbalah — Understanding. Telemagic: Midnight TELEShopping Para-Tech-Fair. WORM UBIK, Rotterdam, The Netherlands
 1. 2016-06-16 \| 36 questions to fall in love with your computer – The One Minutes: Sandberg Series. Burgerweeshuis, Bonnefantenmuseum, Dortmunder U, East China Normal University, Lloyd Hotel & Cultural Embassy, Museum de Fundatie, Museum Hilversum, WOW. Amsterdam, Maastricht, Dortmunder, Shanghai, Amsterdam, Zwolle, Hilversum, Amsterdam.
 1. 2016-02-12 \| The song of the apocalypse. The possibilities of self-destruction. De Punt, Amsterdam, The Netherlands.
