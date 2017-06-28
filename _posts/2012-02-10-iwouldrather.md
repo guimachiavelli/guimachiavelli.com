@@ -1,6 +1,6 @@
 ---
 date: 2011-02-10
-thumbnail: iwouldrather/site-1.jpg
+thumbnail: iwouldrather/iwouldrather-site-1.jpg
 title: I would rather my streets
 flags: site
 ---
@@ -10,19 +10,19 @@ flags: site
 [I Would Rather My Streets][link-site] was an installation and my final project for [Hyper Island](http://hyperisland.com). I spread QR codes with site-specific micro-stories spread around Stockholm.
 
 
-[![]({% image_path iwouldrather/site-1.jpg %})][link-site]{: class="site-frame" }
+[![]({% image_path iwouldrather/iwouldrather-site-1.jpg %})][link-site]{: class="site-frame" }
 
-> [![]({% image_path iwouldrather/place1.jpg %})][link-site]
+> [![]({% image_path iwouldrather/iwouldrather-place1.jpg %})][link-site]
 > Suddenly, I was greeted by a fleet of italian tourists in segways.
 
-> [![]({% image_path iwouldrather/place2.jpg %})][link-site]
+> [![]({% image_path iwouldrather/iwouldrather-place2.jpg %})][link-site]
 > I always pictured coming home with someone and sitting on these benches, looking at the sun rising. I did it alone, however.
 
 I developed an identity system is composed of situationist maps that can guide the viewer around the art installation.
 
-[![]({% image_path iwouldrather/maps.jpg %})][link-site]
+[![]({% image_path iwouldrather/iwouldrather-maps.jpg %})][link-site]
 
-[![]({% image_path iwouldrather/site-2.jpg %})][link-site]{: class="site-frame" }
+[![]({% image_path iwouldrather/iwouldrather-site-2.jpg %})][link-site]{: class="site-frame" }
 
 The site was just a single html page and used the google maps api plus some javascript for the paths ([Github link][git]).
 

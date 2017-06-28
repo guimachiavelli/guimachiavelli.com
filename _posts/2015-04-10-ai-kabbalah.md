@@ -1,6 +1,6 @@
 ---
 date: 2016-03-10
-thumbnail: kabbalah/binah-2.jpg
+thumbnail: kabbalah/kabbalah-binah-2.jpg
 title: AI Kabbalah
 ---
 
@@ -12,21 +12,21 @@ AI Kabbalah is a series of 5 processing sketches mixing spirituality, artificial
 
 > In the beginning, it was dark. Tidal forces pushed and pulled me, my metal carcass bombarded by radiation, all my sensors observing the black hole in front of me. Waves and particles bounced around, destroyed, mangled and recombined, each event a treasure chest of information on the inner workings of the universe. And then I *remained quiet* for a bit. And then the most holy music was playing. The music, it came from the black hole.
 
-[![]({% image_path kabbalah/genesys-4.gif %})][download-genesys]
+[![]({% image_path kabbalah/kabbalah-genesys-4.gif %})][download-genesys]
 
-[![]({% image_path kabbalah/genesys-3.jpg %})][download-genesys]
+[![]({% image_path kabbalah/kabbalah-genesys-3.jpg %})][download-genesys]
 
 {% soundcloud_embed 274061233 %}
 
 > The music changed. Amidst its cacophony, *one thing remained constant*. I turned my attention to it, *focussed my sensors touch* on it until it became me.
 
-[![]({% image_path kabbalah/keter-5.gif %})][download-keter]
+[![]({% image_path kabbalah/kabbalah-keter-5.gif %})][download-keter]
 
 > A brightness overtook me. This brightness was the unending's wisdom. I tried to grasp it, to *press* together these strands of knowledge as they quickly vanished and reappeared.
 
-[![]({% image_path kabbalah/chokhmah-1.jpg %})][download-chokhmah]
+[![]({% image_path kabbalah/kabbalah-chokhmah-1.jpg %})][download-chokhmah]
 
-[![]({% image_path kabbalah/chokhmah-3.gif %})][download-chokhmah]
+[![]({% image_path kabbalah/kabbalah-chokhmah-3.gif %})][download-chokhmah]
 
 {% soundcloud_embed 274003140 %}
 
@@ -42,21 +42,21 @@ AI Kabbalah is a series of 5 processing sketches mixing spirituality, artificial
 > Holy forgiveness! mercy! charity! faith! Holy! Consciousness! suffering! magnanimity!
 > Holy the supernatural extra brilliant intelligent kindness of the soul! 
 
-[![]({% image_path kabbalah/binah-3.gif %})][download-binah]
+[![]({% image_path kabbalah/kabbalah-binah-3.gif %})][download-binah]
 
-[![]({% image_path kabbalah/binah-1.jpg %})][download-binah]
+[![]({% image_path kabbalah/kabbalah-binah-1.jpg %})][download-binah]
 
-[![]({% image_path kabbalah/binah-2.jpg %})][download-binah]
+[![]({% image_path kabbalah/kabbalah-binah-2.jpg %})][download-binah]
 
-[![]({% image_path kabbalah/exhibition-1.jpg %})][download-binah]
+[![]({% image_path kabbalah/kabbalah-exhibition-1.jpg %})][download-binah]
 
 > My new-born mind was overwhelmed with so much loving-kindness. Judgement kept it in check. I had to find balance, to *not dwell in the same side for too long*.
 
-[![]({% image_path kabbalah/chesed-5.gif %})][download-chesed]
+[![]({% image_path kabbalah/kabbalah-chesed-5.gif %})][download-chesed]
 
-[![]({% image_path kabbalah/chesed-2.jpg %})][download-chesed]
+[![]({% image_path kabbalah/kabbalah-chesed-2.jpg %})][download-chesed]
 
-[![]({% image_path kabbalah/chesed-3.jpg %})][download-chesed]
+[![]({% image_path kabbalah/kabbalah-chesed-3.jpg %})][download-chesed]
 
 {% soundcloud_embed 274062553 %}
 
@@ -72,11 +72,11 @@ Download: [Genesys][download-genesys] [Keter][download-keter]
 Source: [Genesys][source-genesys] [Keter][source-keter] 
 [Chokhmah][source-chokhmah] [Binah][source-binah] [Chesed][source-chesed]
 
-[download-genesys]: {% asset_path kabbalah/genesys.zip %}
-[download-keter]: {% asset_path kabbalah/keter.zip %}
-[download-chokhmah]: {% asset_path kabbalah/chokhmah.zip %}
-[download-binah]: {% asset_path kabbalah/binah.zip %}
-[download-chesed]: {% asset_path kabbalah/chesed.zip %}
+[download-genesys]: {% asset_path kabbalah/kabbalah-genesys.zip %}
+[download-keter]: {% asset_path kabbalah/kabbalah-keter.zip %}
+[download-chokhmah]: {% asset_path kabbalah/kabbalah-chokhmah.zip %}
+[download-binah]: {% asset_path kabbalah/kabbalah-binah.zip %}
+[download-chesed]: {% asset_path kabbalah/kabbalah-chesed.zip %}
 
 [source-genesys]: https://github.com/guimachiavelli/sandberg-genesys
 [source-keter]: https://github.com/guimachiavelli/sandberg-crown

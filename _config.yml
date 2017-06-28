@@ -20,3 +20,15 @@ defaults:
 # Build settings
 markdown: kramdown
 exclude: [makefile, target.txt, readme.md]
+plugins: [jekyll-responsive-image]
+
+responsive_image:
+    template: _includes/image.html
+    default_quality: 100
+    sizes:
+        - width: 319
+        - width: 639
+        - width: 768
+        - width: 1536
+        - width: 1920
+        - width: 2880
