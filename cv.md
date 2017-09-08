@@ -60,6 +60,11 @@ Portuguese (native), English (fluent), Italian (fluent), Spanish (intermediary),
 2. 2010-10-29 \| one swallow does not make a summer. HI10 Exhibition. Stockholm, Sweden.
 
 ## Published writing
+1. 2017 \| 'It is as if you were doing work' review. Pervasive Labour Union zine #11: Entreprecariat.
+1. 2017 \| 'The Founder' review. Pervasive Labour Union zine #11: Entreprecariat.
+1. 2017 \| Ritual - Change. On The Growing Book #06 – Prosthetics (Publication created for the Cure Park in the Amsterdamse Bos).
+1. 2017 \| Ritual - Death. On The Growing Book #06 – Prosthetics (Publication created for the Cure Park in the Amsterdamse Bos).
+1. 2017 \| Loving Intimate Circuitry. On The Growing Book #05 – Prosthetics (Publication created for the Cure Park in the Amsterdamse Bos).
 1. 2017 \| Poems About Nonlife. On The Issue #02 – The Sublime Collapse (Sandberg Institute's design department's publication).
 1. 2017 \| True Understanding Drips Like Honey. Self-published booklet for distribution at Telemagic: Midnight TELEShopping Para-Tech-Fair.
 1. 2016 \| Poetry in Filesystems. On The Issue #01 – Speculating Systems (Sandberg Institute's design department's publication).
