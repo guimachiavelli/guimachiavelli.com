@@ -1,8 +1,7 @@
 ---
 date: 2017-01-10
-thumbnail: tokisstheworld/tokisstheworld-site-3.png
+thumbnail: tokisstheworld/cover-0.jpg
 title: To Kiss the World Through a Veil of Lead
-flags: site
 ---
 
 # To Kiss the World Through a Veil of Lead (2017)
@@ -22,7 +21,7 @@ In its installation form, the work was a completely dark and silent room (someho
 
 [![]({% image_path tokisstheworld/tokisstheworld-quote-3.png %})][link-site]
 
-On the website, designed with [Filippo Taveri][collab], the user could hear the same performances, read the texts at their own pace or download the ePub, PDF and audiobook formats.
+On the website, designed in collaboration with [Filippo Taveri][collab], the user could hear the same performances, read the texts at their own pace or download the ePub, PDF and audiobook formats.
 
 [![]({% image_path tokisstheworld/tokisstheworld-site-2.png %})][link-site]{: class="site-frame" }
 
