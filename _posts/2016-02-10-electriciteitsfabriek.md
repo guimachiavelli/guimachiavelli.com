@@ -7,7 +7,7 @@ flags: site
 
 # Electriciteits&#8203;fabriek (2016)
 
-Site for a dutch art space located in The Hague, The Netherlands. [Electriciteitsfabriek][link-site] is a reclaimed energy plant turned into a stage for theatre productions, concerts and exhibitions.
+Website for dutch art space located in The Hague, The Netherlands. [Electriciteitsfabriek][link-site] is a reclaimed energy plant turned into a stage for theatre productions, concerts and exhibitions.
 
 [![]({% image_path ef/ef-site-2.png %})][link-site]{: class="site-frame" }
 
