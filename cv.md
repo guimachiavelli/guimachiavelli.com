@@ -82,6 +82,6 @@ Portuguese (native), English (fluent), Italian (fluent), Spanish (intermediary),
 [lm]: http://www.lamoulade.com
 [pv]: http://www.pinar-viola.com
 [mobe]:  http://www.mobedesign.com.br
-[w3]: http://www.mobedesign.com.br
+[w3]: http://www.w3haus.com.br
 [hyper]:  http://www.hyperisland.com
 [sandberg]: http://sandberg.nl
